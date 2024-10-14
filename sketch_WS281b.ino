@@ -27,8 +27,8 @@ void loop() {
   strip.show();
   // strip.Color(0,0,100);
   delay(300);
-      strip.setPixelColor(0, strip.Color(70, 60, 80));frf
-  strip.show();frf
+      strip.setPixelColor(0, strip.Color(70, 60, 80));
+  strip.show();
   // strip.Color(0,0,100);
   delay(300);
 }
